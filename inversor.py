@@ -14,5 +14,5 @@ for i in range(len(num)):
     k = i+1
     numInv = numInv+num[-k]
     
-print(numInv)
+print(f"El numero {num} escrito al reves es {numInv}")
     
