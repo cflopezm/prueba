@@ -1,7 +1,7 @@
 print("\nEste programa cuenta el numero de digitos de un entero")
 
 #num = int(input("Escribe aqui un numero entero: "))
-num = "123453423423423435434234"
+num = input("Introduce un numero entero aqui: ")
 
 for i in range(len(num)):
     i = i+1
