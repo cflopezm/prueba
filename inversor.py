@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 21 15:21:01 2020
-
-@author: Fabian Lopez
-"""
-
 print("Este programa invierte las cifras de un numero entero")
+print("El numero es introducido por el usuario :D ")
 
 num = input("Escribe un digito: ")
 numInv = ""
