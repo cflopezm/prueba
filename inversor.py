@@ -9,4 +9,5 @@ for i in range(len(num)):
     numInv = numInv+num[-k]
     
 print(f"El numero {num} escrito al reves es {numInv}")
+print("ola k ase?")
     
